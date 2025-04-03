@@ -11,7 +11,7 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: CopperMC
 serverDescription: A Minecraft server where we have lots of fun!
 serverIP: guides-standing.gl.joinmc.link
 useBedrockForOnlineStatus: false
